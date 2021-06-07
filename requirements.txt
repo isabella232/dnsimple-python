@@ -2,7 +2,7 @@ attrs==20.3.0
 certifi==2020.12.5
 chardet==4.0.0
 coverage==5.4
-dataclasses-json==0.5.2
+dataclasses-json==0.5.4
 idna==2.10
 marshmallow==3.10.0
 marshmallow-enum==1.5.1
